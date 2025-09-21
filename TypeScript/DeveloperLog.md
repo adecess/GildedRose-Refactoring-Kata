@@ -21,3 +21,7 @@ Added constructor types and added missing ItemName constants.
 # Step 6
 
 Replaced the index-based for loop with a for...of statement to improve readability.
+
+# Step 6
+
+Extracted updateItem method from the for...of as a class method. It makes it easier to focus on each item modifications, as the name suggests.
