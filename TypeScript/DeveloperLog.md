@@ -10,3 +10,6 @@ Cloned repository and navigated to the TypeScript folder.
 
 Read README.md and followed instructions to be able to use the TextTest tool.
 
+# Step 4
+
+Extracted string literals into a common ItemName enum constants to make them clearer and easy to update.
