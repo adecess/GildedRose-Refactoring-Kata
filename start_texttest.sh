@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ ! -d "venv" ]; then
-    python -m venv venv
+    uv venv venv
+    uv pip install --python venv/bin/python texttest
 fi
-venv/bin/pip install texttest
 venv/bin/texttest -d . -con "$@"

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 This script uses npx to execute the TextTest Fixture for TypeScript.
 It is designed to be used by TextTest and specified in the file 'texttests/config.gr' in this repo.
