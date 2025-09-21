@@ -17,3 +17,7 @@ Extracted string literals into a common ItemName enum constants to make them cle
 # Step 5
 
 Added constructor types and added missing ItemName constants.
+
+# Step 6
+
+Replaced the index-based for loop with a for...of statement to improve readability.
