@@ -13,3 +13,7 @@ Read README.md and followed instructions to be able to use the TextTest tool.
 # Step 4
 
 Extracted string literals into a common ItemName enum constants to make them clearer and easy to update.
+
+# Step 5
+
+Added constructor types and added missing ItemName constants.
